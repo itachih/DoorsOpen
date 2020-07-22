@@ -1,0 +1,36 @@
+
+import time
+print('')
+print('')
+print('')
+print('DoorsOpen')
+print('by HACKER PRO')
+print('Нажмите Y чтобы начать')
+print('')
+print('')
+next0 = input('')
+if next0 == 'Y':
+	print('Вибирите марку Домофона:')
+	print('1.Vizit')
+	door = input('Напиши число:')
+	if door == "1":
+		print("//")
+		time.sleep(2)
+		print('\\')
+		time.sleep(2)
+		print('Введите ети коды в домофон(Если первый не сработает то вводите 2 и тд.):')
+		print("*#999")
+		print("*#7463")
+		print("*#0000")
+		print("*#9999")
+		print("*#6767")
+		print("*#3535")
+		print("*#12345")
+		print("*#11639")
+		print("12#345")
+		print("*#4230")
+		print("67*890")
+		print('*#3423')
+		print("12#345")
+
+
