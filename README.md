@@ -1,3 +1,2 @@
 # DoorsOpen
 QWERTY
-АУФ БРАТВА
